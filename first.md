@@ -5,3 +5,4 @@
 3、开发页面Footer
 
 新建hotfix分支：修改bug
+hotfix分支：修改bug2
